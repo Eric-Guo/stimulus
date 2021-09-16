@@ -1,6 +1,6 @@
 {
-  "name": "@stimulus/core",
-  "version": "2.0.0",
+  "name": "@mixtint/core",
+  "version": "2.1.0",
   "description": "Stimulus JavaScript framework: Core library",
   "repository": "https://stimulus.hotwired.dev",
   "author": "Basecamp, LLC",
@@ -14,15 +14,15 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "@stimulus/multimap": "^2.0.0",
-    "@stimulus/mutation-observers": "^2.0.0"
+    "@mixtint/multimap": "^2.1.2-alpha.0",
+    "@mixtint/mutation-observers": "^2.1.2-alpha.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
-    "@stimulus/polyfills": "^2.0.0",
-    "@stimulus/test": "^2.0.0"
+    "@mixtint/polyfills": "^2.1.2-alpha.0",
+    "@mixtint/test": "^2.1.2-alpha.0"
   },
   "scripts": {
     "clean": "rimraf dist *.tsbuildinfo"

@@ -1,6 +1,6 @@
 {
-  "name": "@stimulus/polyfills",
-  "version": "2.0.0",
+  "name": "@mixtint/polyfills",
+  "version": "2.1.0",
   "description": "Polyfills to support Stimulus in older browsers",
   "repository": "https://stimulus.hotwired.dev",
   "author": "Basecamp, LLC",
