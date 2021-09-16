@@ -17,7 +17,7 @@
   },
   "workspaces": [
     "packages/*",
-    "packages/@mixtint/*"
+    "packages/@stimulus/*"
   ],
   "dependencies": {
     "@babel/core": "^7.13.13",

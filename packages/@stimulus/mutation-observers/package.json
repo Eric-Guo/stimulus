@@ -1,5 +1,5 @@
 {
-  "name": "@stimulus/mutation-observers",
+  "name": "@mixtint/mutation-observers",
   "version": "2.0.0",
   "description": "Practical wrappers around DOM MutationObserver",
   "repository": "https://stimulus.hotwired.dev",
@@ -13,10 +13,10 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "@stimulus/multimap": "^2.0.0"
+    "@mixtint/multimap": "^2.0.0"
   },
   "devDependencies": {
-    "@stimulus/test": "^2.0.0"
+    "@mixtint/test": "^2.0.0"
   },
   "publishConfig": {
     "access": "public"

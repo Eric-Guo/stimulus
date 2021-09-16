@@ -1,5 +1,5 @@
 {
-  "name": "@stimulus/test",
+  "name": "@mixtint/test",
   "version": "2.0.0",
   "description": "Stimulus JavaScript framework: Test helpers",
   "repository": "https://stimulus.hotwired.dev",
