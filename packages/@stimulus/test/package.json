@@ -1,6 +1,6 @@
 {
   "name": "@mixtint/test",
-  "version": "2.0.0",
+  "version": "2.1.1-alpha.0",
   "description": "Stimulus JavaScript framework: Test helpers",
   "repository": "https://stimulus.hotwired.dev",
   "author": "Basecamp, LLC",
